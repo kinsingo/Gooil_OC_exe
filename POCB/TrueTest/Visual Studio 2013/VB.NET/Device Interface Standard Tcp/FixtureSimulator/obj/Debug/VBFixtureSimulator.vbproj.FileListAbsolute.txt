@@ -1,0 +1,23 @@
+Z:\TcpIpImplementation\Standard\Device Interface Standard\FixtureSimulator\bin\Debug\VBFixtureSimulator.exe.config
+Z:\TcpIpImplementation\Standard\Device Interface Standard\FixtureSimulator\bin\Debug\VBFixtureSimulator.exe
+Z:\TcpIpImplementation\Standard\Device Interface Standard\FixtureSimulator\bin\Debug\VBFixtureSimulator.pdb
+Z:\TcpIpImplementation\Standard\Device Interface Standard\FixtureSimulator\bin\Debug\VBFixtureSimulator.xml
+Z:\TcpIpImplementation\Standard\Device Interface Standard\FixtureSimulator\obj\Debug\VBFixtureSimulator.FixtureSimulatorForm.resources
+Z:\TcpIpImplementation\Standard\Device Interface Standard\FixtureSimulator\obj\Debug\VBFixtureSimulator.Resources.resources
+Z:\TcpIpImplementation\Standard\Device Interface Standard\FixtureSimulator\obj\Debug\VBFixtureSimulator.vbproj.GenerateResource.Cache
+Z:\TcpIpImplementation\Standard\Device Interface Standard\FixtureSimulator\obj\Debug\VBFixtureSimulator.exe
+Z:\TcpIpImplementation\Standard\Device Interface Standard\FixtureSimulator\obj\Debug\VBFixtureSimulator.xml
+Z:\TcpIpImplementation\Standard\Device Interface Standard\FixtureSimulator\obj\Debug\VBFixtureSimulator.pdb
+Z:\TcpIpImplementation\Standard\Device Interface Standard Tcp\FixtureSimulator\bin\Debug\VBFixtureSimulator.exe.config
+Z:\TcpIpImplementation\Standard\Device Interface Standard Tcp\FixtureSimulator\obj\Debug\VBFixtureSimulator.exe
+Z:\TcpIpImplementation\Standard\Device Interface Standard Tcp\FixtureSimulator\obj\Debug\VBFixtureSimulator.xml
+Z:\TcpIpImplementation\Standard\Device Interface Standard Tcp\FixtureSimulator\obj\Debug\VBFixtureSimulator.pdb
+Z:\TcpIpImplementation\Standard\Device Interface Standard Tcp\FixtureSimulator\bin\Debug\VBFixtureSimulator.exe
+Z:\TcpIpImplementation\Standard\Device Interface Standard Tcp\FixtureSimulator\bin\Debug\VBFixtureSimulator.pdb
+Z:\TcpIpImplementation\Standard\Device Interface Standard Tcp\FixtureSimulator\bin\Debug\VBFixtureSimulator.xml
+Z:\TcpIpImplementation\Standard\Device Interface Standard Tcp\FixtureSimulator\obj\Debug\VBFixtureSimulator.FixtureSimulatorForm.resources
+Z:\TcpIpImplementation\Standard\Device Interface Standard Tcp\FixtureSimulator\obj\Debug\VBFixtureSimulator.Resources.resources
+Z:\TcpIpImplementation\Standard\Device Interface Standard Tcp\FixtureSimulator\obj\Debug\VBFixtureSimulator.vbproj.GenerateResource.Cache
+Z:\TcpIpImplementation\Standard\Device Interface Standard Tcp\FixtureSimulator\bin\Debug\TcpCommunication.dll
+Z:\TcpIpImplementation\Standard\Device Interface Standard Tcp\FixtureSimulator\bin\Debug\TcpCommunication.pdb
+Z:\TcpIpImplementation\Standard\Device Interface Standard Tcp\FixtureSimulator\obj\Debug\VBFixtureSimulator.vbprojResolveAssemblyReference.cache

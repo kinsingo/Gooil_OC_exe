@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VBFixtureSimulator
+</name>
+</assembly>
+<members>
+<member name="P:VBFixtureSimulator.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:VBFixtureSimulator.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:VBFixtureSimulator.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:VBFixtureSimulator.FixtureSimulatorForm.PacketTcp.#ctor(System.Byte[])">
+	<summary>
+ Parses text to known commands
+ </summary>
+</member><member name="M:VBFixtureSimulator.FixtureSimulatorForm.PacketTcp.Send(VBFixtureSimulator.FixtureSimulatorForm)">
+	<summary>
+ Sends Cmd over the tcp client.
+ </summary>
+</member>
+</members>
+</doc>

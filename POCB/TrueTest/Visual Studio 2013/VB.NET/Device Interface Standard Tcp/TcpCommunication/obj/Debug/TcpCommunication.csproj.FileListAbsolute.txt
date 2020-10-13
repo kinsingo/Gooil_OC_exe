@@ -1,0 +1,6 @@
+Z:\TcpIpImplementation\Standard\Device Interface Standard Tcp\bin\Debug\Patterns\Test.png
+Z:\TcpIpImplementation\Standard\Device Interface Standard Tcp\bin\Debug\TcpCommunication.dll
+Z:\TcpIpImplementation\Standard\Device Interface Standard Tcp\bin\Debug\TcpCommunication.pdb
+Z:\TcpIpImplementation\Standard\Device Interface Standard Tcp\TcpCommunication\obj\Debug\TcpCommunication.csprojResolveAssemblyReference.cache
+Z:\TcpIpImplementation\Standard\Device Interface Standard Tcp\TcpCommunication\obj\Debug\TcpCommunication.dll
+Z:\TcpIpImplementation\Standard\Device Interface Standard Tcp\TcpCommunication\obj\Debug\TcpCommunication.pdb
